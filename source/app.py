@@ -12,7 +12,7 @@ def fetchDetails():
 
 @app.route('/')
 def hello_world():
-    return 'Thamires é linda, mulher da minha vida!'
+    return 'minha namorada é linda, mulher da minha vida!'
 
 @app.route('/health')
 def health():
